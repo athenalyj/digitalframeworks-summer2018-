@@ -7,7 +7,7 @@
    * Was it in the headline? __Yes.__
 * Were you able to quickly understand how you would navigate the data? __4__
    * Was that the most efficient way to navigate? __Yes. Because the writer used the most direct data from different angles.__
-   * Can you suggest ways to improve navigation? __I would do a chart to compare Federer's winning percentage when he is A. 15-0; B. 30-0; C. 40-0; D. 0-15 instead of describing those record. It might be clearer and more convincing.__
+   * Can you suggest ways to improve navigation? __I would do a chart to compare Federer's winning percentage when he is 15-0, 30-0, 40-0 amd 0-15 instead of describing those records with paragraphs. It might be clearer and more convincing.__
 * Using your own knowledge and critical thinking abilities, do you think the data was accurate? __5__
    * List any areas where you question the accuracy of the data. __None.__
    * List sources you would suggest the reporter check with. __The Wimbeldon.__
@@ -16,11 +16,11 @@
 
 ### Objective: Quality
 
-* Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.)
-   * Explain what they did well and areas where improvements could be made. 
+* Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? __5__
+   * Explain what they did well and areas where improvements could be made. __The story is concise and direct, but I think some data is better to be presented by charts/graphs. Now it only has one chart, while some other statistics can also be visualized.__
 * Consider some tasks a data story must do well: (present, compare, organize, correlate)
-   * Did this graphic accomplish all tasks?
-   * If not, which ones did it not accomplish
+   * Did this graphic accomplish all tasks? __Almost.__
+   * If not, which ones did it not accomplish __The compare part can be stronger, as stated in the previous questions.__
 
 ### Objective: Type and color (if piece includes graphics)
 
@@ -36,6 +36,6 @@
    
 ### Objective: Creativity
 
-* Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
+* Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you? __No. It is a typical data journalistic piece.__
    * How?
    * Rate effectiveness on scale of 1-5. 
