@@ -10,7 +10,7 @@
    * Can you suggest ways to improve navigation? __I would do a chart to compare Federer's winning percentage when he is 15-0, 30-0, 40-0 amd 0-15 instead of describing those records with paragraphs. It might be clearer and more convincing.__
 * Using your own knowledge and critical thinking abilities, do you think the data was accurate? __5__
    * List any areas where you question the accuracy of the data. __None.__
-   * List sources you would suggest the reporter check with. __The Wimbeldon.__
+   * List sources you would suggest the reporter check with. __The Wimbledon.__
    * Did they provide a source? __Yes, under each chart or after each reference.__
    * Did they explain everything that needed explaining? __Yes. I think it is enough for FiveThirtyEight's target readers - veteran sports fans.__
 
