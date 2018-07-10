@@ -6,7 +6,7 @@
    * What was it? __Federer has a higer winning percentage in serve games when he wins the first point.__
    * Was it in the headline? __Yes.__
 * Were you able to quickly understand how you would navigate the data? __4__
-   * Was that the most efficient way to navigate? __Yes. Because the writer used the most direct data from different angles.__
+   * Was that the most efficient way to navigate? __Yes, because the writer used the most direct data from different angles.__
    * Can you suggest ways to improve navigation? __I would do a chart to compare Federer's winning percentage when he is 15-0, 30-0, 40-0 amd 0-15 instead of describing those records with paragraphs. It might be clearer and more convincing.__
 * Using your own knowledge and critical thinking abilities, do you think the data was accurate? __5__
    * List any areas where you question the accuracy of the data. __None.__
