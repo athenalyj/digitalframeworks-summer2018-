@@ -1,3 +1,7 @@
+### Final project ideas:
+  1. What are Team USA's weapons to beat their pool opponents - For FIVB Volleyball Men's World Championship. Look at pool opponent's key stats to see what strategy Team USA should adopt against each opponent in their pool.
+  2. Who's United State's "Grand Slam" player? - For the US Open. Look at the stats of USA's tennis players and analyze who perform better in Grand Slams. 
+
 # Data reporting critiques - [When Federer Wins The First Point On Serve, It’s Usually Game Over](https://fivethirtyeight.com/features/when-federer-wins-the-first-point-on-serve-its-usually-game-over/)
 
 ### Objective: Clarity and accuracy
