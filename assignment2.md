@@ -18,4 +18,4 @@ I will collect the data by turning to [the official site of the U.S. Open](https
 
 Player | Year | Seed | R128 | R64 | R32 | R16| QF | SF | F | Sum | Disadvantaged H2H | Tiebreakers | Sets
  ----- | ---- | ---- | ---- | --- | --- | -- | -- | -- | --| ----| ------------------| ------------| ----
-Sloane Stephens | 2017 | - | - | 11 | - | 30 | 16 | 9 | 15 | 81 | 0 | 1 | 4
+Sloane Stephens | 2017 | - | - | 11 | - | 30 | 16 | 9 | 15 | 81 | 0 | 1 | 18
