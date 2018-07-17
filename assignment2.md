@@ -14,17 +14,8 @@ Here are the features I'll be collecting, and an explanation of why:
 * Total tiebreakers played (This means she played with people that were very competitive.)
 * Total sets played (This would demonstrate the difficulty of winning the championship.)
 
-* An explanation of how you'd go about collecting that data (you don't actually have to do it on an ongoing basis, especially if it involves staking something out, just tell me how you would do it).
-I will collect the data by watching part of the press conference and recording this information. I will use weather.gov to find the temperature in the city where the press conference is taking place. I will find the image by looking at the news sources cited above.
-I will collect the data by turning to [the official site of the U.S. Open](https://www.usopen.org) 
-* A table including at least five data points in this dataset
-* You can put your data in a google sheet (in which case, put the link in your homework) or make a table directly in the document you submit.
-* Your dataset cannot be something you can just find elsewhere. For example, do not pick something like "all earthquakes above magnitude 7 in the US" because someone (the USGS) already has exactly that data collection. If you want to do earthquakes, add more information such as the number of injuries and deaths reported in the media, and possibly include a link to the relevant media report as one of your columns.
-* Submit this assignment as `assigment2.md`
+I will collect the data by turning to [the official site of the U.S. Open](https://www.usopen.org) as well as [WTA](http://www.wtatennis.com/) for offical game records and H2H. The list of former U.S. Open champions are easy to fine on [Wikipedia](https://en.wikipedia.org/wiki/List_of_US_Open_women%27s_singles_champions).
 
-
-I will collect the data by watching part of the press conference and recording this information. I will use weather.gov to find the temperature in the city where the press conference is taking place. I will find the image by looking at the news sources cited above.
-
-Color | Date | Time | Location | Temperature | Other speakers | Image link
----- | ----- | ---- | -------- | ----------- | -------------- | ----------
-tk | tk | tk | tk | tk | tk | tk
+Player | Year | Seed | R128 | R64 | R32 | R16| QF | SF | F | Sum | Disadvantaged H2H | Tiebreakers | Sets
+ ----- | ---- | ---- | ---- | --- | --- | -- | -- | -- | --| ----| ------------------| ------------| ----
+Sloane Stephens | 2017 | - | - | 11 | - | 30 | 16 | 9 | 15 | 81 | 0 | 1 | 4
