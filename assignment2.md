@@ -14,7 +14,7 @@ Here are the features I'll be collecting, and an explanation of why:
 * Total tiebreakers played (This means she played with people that were very competitive.)
 * Total sets played (This would demonstrate the difficulty of winning the championship.)
 
-I will collect the data by turning to [the official site of the U.S. Open](https://www.usopen.org) as well as [WTA](http://www.wtatennis.com/) for offical game records and H2H. The list of former U.S. Open champions are easy to fine on [Wikipedia](https://en.wikipedia.org/wiki/List_of_US_Open_women%27s_singles_champions).
+I will collect the data by turning to [the official site of the U.S. Open](https://www.usopen.org) as well as [WTA](http://www.wtatennis.com/) for offical game records and H2H. The list of former U.S. Open champions are easy to find on [Wikipedia](https://en.wikipedia.org/wiki/List_of_US_Open_women%27s_singles_champions).
 
 Player | Year | Seed | R128 | R64 | R32 | R16| QF | SF | F | Sum | Disadvantaged H2H | Tiebreakers | Sets
  ----- | ---- | ---- | ---- | --- | --- | -- | -- | -- | --| ----| ------------------| ------------| ----
