@@ -1,4 +1,4 @@
-## Assignment
+## Assignment 2
 
 Think about an area you're interested in, or one you may do your final project on, and come up with a dataset you wish existed. Then submit the following:
 
@@ -19,3 +19,7 @@ I will collect the data by turning to [the official site of the U.S. Open](https
 Player | Year | Seed | R128 | R64 | R32 | R16| QF | SF | F | Sum | Disadvantaged H2H | Tiebreakers | Sets
  ----- | ---- | ---- | ---- | --- | --- | -- | -- | -- | --| ----| ------------------| ------------| ----
 Sloane Stephens | 2017 | - | - | 11 | - | 30 | 16 | 9 | 15 | 81 | 0 | 1 | 18
+Angelique Kerber | 2016 | 2 | - | - | - | 14 | 7 | - | 10 | 33 | 1 | 1 | 15
+Flavia Pennetta | 2015 | 26 | - | - | - | 22| 5 | 2 | - | 55 | 0 | 1 | 17
+Serena Williams | 2014 | 1 | - | - | - | - | 11 | 17 | 10 | 38 | 0 | 0 | 14
+Serena Williams | 2013 | 1 | - | - | - | 15 | 18 | 5 | 2 | 40 | 0 | 1 | 15
