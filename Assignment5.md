@@ -1,6 +1,6 @@
 # Assignment 5: Interview a dataset
 
-The database I interviewed: [Results of the former U.S. Open female defending champions.]()(This would be expanded to include both men's and women's later.)
+The database I interviewed: [Results of the former U.S. Open female defending champions.](https://github.com/athenalyj/digitalframeworks-summer2018-/raw/master/final%20data_calculated.xlsx)(This would be expanded to include both men's and women's later.)
 
 ### Q1: How far did the former U.S. Open defending champions go, in general? Is it getting easier to defend?
 A: Of the 49 U.S. Open defending champions, 28.57 percent defended their titles, 17.95 percent became runner-ups, 15.38 percent advanced to the semifinals, 12.82 percent to the quarterfinals and 25.64 percent did not make to the finals.
