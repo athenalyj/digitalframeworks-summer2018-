@@ -20,8 +20,6 @@ A: In 2001, the fourth seeded Venus Williams denfended her U.S. Open title by ov
 5. Took the "champion" data points and rank by year. -- [Defending over Years]
 
 
-2. Additionally, write down all steps used to clean and analyze the data, including any Excel formulas. 
-3. Lastly, write a sample headline and nut graf based on the most interesting of the three questions.
 
 I combined Q1 and Q2 to develop a headline and because I do not have Sloane Stephens' draw this year yet, the story idea is more history-based than what I expect for the final project.
 ## Historical Statistics Show It's Harder to Denfend the U.S. Open Title on the Women's Side
