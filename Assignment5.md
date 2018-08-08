@@ -22,6 +22,6 @@ A: In 2001, the fourth seeded Venus Williams denfended her U.S. Open title by ov
 
 
 I combined Q1 and Q2 to develop a headline and because I do not have Sloane Stephens' draw this year yet, the story idea is more history-based than what I expect for the final project.
-## Historical Statistics Show It's Harder to Denfend the U.S. Open Title on the Women's Side
+## Historical Statistics Show It's Harder to Defend the U.S. Open Title on the Women's Side
 Sloane Stephens may be unhappy about that, but data shows that dedending a U.S. Open champion has become increasingly difficult for WTA players. 
 Since its launch in 1968, the U.S. Open has only witnessed its trophy reclaimed by the same player for 14 times, 10 of which were before the 2000s. The difficulty of defending, moreover, is generally higher in recent years. Despite Martina Navratilova won what seemed to be the hardest-won champion in 1987, let's not ignore that Venus Williams, in 2001, became the only defending champion that played five seeded opponents in the tournament history. 
