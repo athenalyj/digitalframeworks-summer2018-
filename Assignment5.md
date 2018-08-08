@@ -13,7 +13,13 @@ A: In 2001, the fourth seeded Venus Williams denfended her U.S. Open title by ov
 
 ## How I created the database and processed the data
 1. Collect all data from Wikipedia pages and [WTAtennis.com](http://www.wtatennis.com/headtohead).
+2. Weighting the seeds by assigning 32 points to the first seeded player and 1 points to the 32nd seeded player. Non-seeded players do not have points. Use the sum to calculate the difficulty rate and present it in a 100 scale. -- [Raw Data]
+3. Delete rows with no data (i.e. the player did not attend during that year) and rank by difficulty rate. -- [Ranked by DR]
+4. Rank by results and calculate the porportion of different results in all years and years when the defending champions returned. (=Cell/49 or =Cell/39) -- [Ranked by Results]
+
+
+
 2. Additionally, write down all steps used to clean and analyze the data, including any Excel formulas. 
 3. Lastly, write a sample headline and nut graf based on the most interesting of the three questions.
 
-This analysis can be related to your final project, but does not have to be.
+
