@@ -12,7 +12,7 @@ Under all circumstances, the first seeded player gets 32 points, the second seed
 
 Here is what the result looks like:
 
-[Book1.twbx](
+[Book1.twbx](https://github.com/athenalyj/digitalframeworks-summer2018-/blob/master/Book1.twbx)
 
 Interestingly, unlike the men’s side where seven tennis legends managed to keep the title for at least two years in a row, there is no sign of dominance in women’s competition throughout the years. 
 
@@ -20,7 +20,7 @@ Since its launch in 1968, the U.S. Open has only witnessed its trophy reclaimed 
 
 The difficulty rate of defending reached its peak between mid-1980s and mid 2000s, during when Martina Navratilova clinched a 100-point hard-fought win in 1987, after beating #14 Catarina Lindqvist, #8 Gabriela Sabatini, #6 Helena Suková and #1 Steffi Graf. Venus Williams, in 2001, though only scored 97.09, became the first U.S. Open defending champion that had to play five seeded players, with three of them having topped the WTA world rankings at some point of their careers. 
 
-[Book2.twbx]
+[Book2.twbx](https://github.com/athenalyj/digitalframeworks-summer2018-/blob/master/Book2.twbx)
 
 Based on the difficulty rate, Steffi Graf had the luckiest draw in 1996 and totally cashed it. The then WTA No.1 routed all unseeded opponents in the first five rounds, defeated #16 Martina Hingis in semifinal and #2 Monica Seles in the final to win her fifth and also last U.S. Open title, without playing a tiebreaker or three setter.
 
